@@ -62,5 +62,6 @@
 #### 学习资料
 
 + [逻辑门的种类与符号](https://www.eefocus.com/baike/481031)
++ ！[问题一回答】（https://github.com/wddmznb/Geek_Appraisal/blob/main/2c3520b6be21a99b6445651733c2ba9.png）
 + [真值表](https://www.zhihu.com/question/275618526)
 + [常见七种逻辑门真值表](https://blog.csdn.net/weixin_52487896/article/details/125889966)
